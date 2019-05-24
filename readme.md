@@ -4,6 +4,6 @@
 
 Disclaimer: **All code here will be free of private (company) info. No SEEK stuff here. Na-da.**
 
-# TODO:
+# T0-D0
 - turn this into a PWA?
 - use a static site generator like Jekyll or similar generators?
